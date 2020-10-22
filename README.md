@@ -1,5 +1,5 @@
 # Project Showcase
-Did you attend Start.Dev.Change. and start building something?! We want to see it! Add your project to this repo so other can see how awesome you are!! 
+Did you attend Start.Dev.Change. and start building something?! We want to see it! Add your project to this repo so people can see how awesome you are!! 
 
 ## How to add your project
 1. Fork and clone this repo
